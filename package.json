@@ -1,0 +1,14 @@
+{
+  "name": "clean-code-js",
+  "version": "1.0.0",
+  "description": "Clean Code Javascript",
+  "main": "index.js",
+  "author": "Riko Pernando",
+  "scripts": {
+    "start": "http-server -p8090"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
